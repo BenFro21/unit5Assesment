@@ -57,5 +57,5 @@ public class Balanced {
     //part 2 step 3
 //If you cannot use any built-in Java libraries to implement a stack, you can create a custom stack class from scratch.
 // I am still confused on this part. Is it possible or no? the reserch i found seemed to say no
-
+// Adding this before the power goes out
 }
