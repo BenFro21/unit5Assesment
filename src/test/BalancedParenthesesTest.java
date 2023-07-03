@@ -5,24 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 
-/**
- * Test for balance in parentheses.
- * <p>
- * balance() only checks for parentheses.
- *
- * @Test: balance()
- * 1. ()()()() - true
- * 2. ((()))((()())()) - true
- * 3. )( - true
- * 4. ) - false
- * <p>
- * <p>
- * balanceAllTypes() checks for other brackets
- * @Test: balanceAllTypes()
- * 1. ( { [ ] } ) - true
- * 2. (({{}[}])) - true
- * 3. {}} - false
- */
+
 
 
 class BalancedParenthesesTest {
